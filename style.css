@@ -1,0 +1,35 @@
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 3px 3px;
+    padding:  5px 15px;
+    /* text-align: center; */
+    width: 25px;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: 15px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 3px 8px; */
+}
+.input{
+   margin-bottom: 12px;
+    width: 8em;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
